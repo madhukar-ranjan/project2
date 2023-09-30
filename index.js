@@ -1,3 +1,3 @@
 var pusssy = 10;
 
-console.log(pussy);
+console.log(pusssy);
